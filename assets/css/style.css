@@ -1,0 +1,30 @@
+/* navbar */
+
+.bg-light{
+    background-color: #3b5998!important;
+}
+
+.navbar-light .navbar-brand{
+    color:#fff;
+}
+
+.navbar-light .navbar-nav .active >.nav-link, 
+.navbar-light .navbar-nav .nav-link.active, 
+.navbar-light .navbar-nav .nav-link.show, 
+.navbar-light .navbar-nav .show>.nav-link{
+    color:#fff;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color:#e1e1e1;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    color:#fff;
+}
+
+.ml-auto{
+    margin-right:2rem;
+}
+
+/* end navbar */
