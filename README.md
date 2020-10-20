@@ -1,4 +1,3 @@
-#Latihan Membuat Portfolio
-Latihan ini dilakukan bersama SMIT dalam pelatihan pemrograman web
-
-SMIT 2018
+Hello, welcome to my portfolio page.
+Fauziah Nur Rahmawati
+Informatics Engineering
